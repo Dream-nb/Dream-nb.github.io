@@ -1,0 +1,208 @@
+@charset "utf-8";
+.ht-logo a:hover
+,.ht-nav .more1 li a:hover
+,.ht-nav .more2 li a:hover
+,.ct-sp a:hover
+,a:hover{
+	color:#db3a45;
+}
+.ht-more a:hover{
+	background:url('../images/nav2016-morebg.png') no-repeat 0 24px;
+}
+.ht-more a:hover ~ .more2
+,.ht-more:hover ~ .ht-szdh .more1
+,.ht-nav .more2:hover{
+	top:-50px;
+}
+.ht-search > a:hover{
+	background-image:url('../images/nav2016-search-open.png');
+}
+.ht-search:hover .search-content
+,.search-content:hover{
+	display:block;
+}
+
+.search-content ol li a:hover{
+	color:#db3a45;
+}
+.swiper-container:hover .swiper-button-left
+,.swiper-container:hover .swiper-button-right
+,.swiper-container:hover .swiper-button-prev2
+,.swiper-container:hover .swiper-button-next2
+,.swiper-container:hover .swiper-button-prev4
+,.swiper-container:hover .swiper-button-next4{
+	right:0;
+}
+/*内容二部分*/
+.r1-footer:hover .r1-footer1{
+	top:-32px;
+}
+.r1-footer:hover .r1-footer2{
+	top:0px;
+}
+.r1-footer2 span:hover{
+	top:13px;
+}
+.xs-sp:hover{
+	background-color:#fff;
+}
+.xs-sp:hover a{
+	color:#000;
+}
+.ct-two-r2:hover ~ .two-r-xs
+,.two-r-xs:hover{
+	bottom:0px;
+	width:300px;
+	height:300px;
+}
+.two-r-xs:hover .xs-div p{
+	display:block;
+}
+.two-r-xs:hover .xs-div span{
+	display:block;
+}
+.swiper-button-prev1:hover{
+	background-position:-85px -70px;
+}
+.swiper-button-next1:hover{
+	background-position:-68px -70px;
+}
+/*内容三部分*/
+.ctl-a1:hover ~ .ctl-a{
+	background-color:rgba(0,0,0,.7);
+}
+.ctl-a1:hover ~ .ctl-a span{
+	background-position:-244px -155px;
+}
+.ctr-img:hover ~ a{
+	background-color:rgba(0,0,0,.7);
+}
+.ctr-img:hover ~ a span{
+	background-position:-135px -142px;
+}
+/*内容四部分*/
+.ct-middle:hover .middle-xs
+,.ct-r:hover .middle-xs{
+	bottom:2px;
+}
+.four-footer-nav > ul li a:hover ~ .ff-i{
+	left:0px;
+	width:100%;
+}
+.ff-sp-ul li:hover .ff-sp-ul-div{
+	display:block;
+}
+.ft-div3:hover .ft-div3-a{
+	bottom:30px;
+}
+.ft-div3:hover .ft-div3-a1{
+	bottom:0;
+}
+.ft-div3-a1:hover{
+	bottom:0;
+}
+/*内容五部分*/
+.swiper-container:hover .button .swiper-button-prev3 span
+,.swiper-container:hover .button .swiper-button-next3 span
+,.swiper-container:hover .button .swiper-button-prev5 span
+,.swiper-container:hover .button .swiper-button-next5 span{
+	left:50%;
+	opacity:1;
+}
+.five-ct-r-div:hover .five-ct-r-div-div{
+	top:0px;
+	width:240px;
+	height:240px;
+}
+.five-ct-r-div-div:hover div span
+,.five-ct-r-div-div:hover div p{
+	display:block;
+}
+.five-ct-r-div1:hover .five-ct-r-div-div{
+	top:260px;
+	width:240px;
+	height:240px;
+}
+.five-footer-sp2:hover{
+	color:#000;
+	border-bottom:2px solid #000;
+}
+.five-footer-sp2:hover ~ .five-footer-sp{
+	color:#888;
+	border-bottom:none;
+}
+.five-footer-sp2:hover ~ .five-footer-ct{
+	display:none;
+}
+.five-footer-sp2:hover ~ .five-footer-ct2{
+	display:block;
+}
+.five-footer-ct2:hover{
+	display:block;
+	background-color:#fff;
+}
+.five-pic ul li:hover{
+	background-color:#db3a45;
+	color:#fff;
+}
+/*内容六部分*/
+.six-div3:hover .six-div3-a{
+	bottom:41px;
+}
+/*内容八部分*/
+.eight-ct-r div:hover .middle-xs{
+	bottom:-11px;
+}
+/*内容十部分*/
+.ten-l-a:hover .ten-pic
+,.ten-l-a:hover .ten-pic1{
+	display:block;
+}
+.ten-l-list div i:hover{
+	background-position:-730px -201px;
+}
+.ten-l-list div .ten-l-list1:hover{
+	background-position:-730px -298px;
+}
+.ten-l-list div .ten-l-list2:hover{
+	background-position:-730px -347px;
+}
+.swiper-container:hover .button .swiper-button-next6{
+	left:0;
+}
+.swiper-container:hover .button .swiper-button-prev6{
+	left:84%;
+}
+/*内容十一部分*/
+.gallery-div1:hover .five-ct-r-div-div{
+	top:8px;
+	width:247px;
+	height:245px;
+}
+/*二维码内容*/
+.code-ct-pic:hover .code-ct-im{
+	display:block;
+}
+.code-ct-pic:hover ~ .code-ct-pic1{
+	display:none;
+}
+.code-list-two:hover .list-two-a{
+	top:-30px;
+}
+.code-list-two:hover .list-two-a1{
+	top:0;
+}
+.list-two-a1:hover{
+	top:0;
+}
+.code-ct-pic1:hover .code-list{
+	display:block;
+}
+.code-ct-pic:hover .code-ct-im .code-im-pic{
+	display:block;
+}
+/*右侧侧边栏*/
+.nav-span:hover
+,.nav-span1:hover{
+	background-color:#db3a45;
+}
